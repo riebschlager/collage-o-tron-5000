@@ -1,0 +1,6 @@
+**/sliceup-output/*
+!**/sliceup-output/.gitignore
+**/layers/*
+!**/layers/.gitignore
+**/Backup/*
+*.*.toe
